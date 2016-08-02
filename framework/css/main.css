@@ -1,0 +1,75 @@
+/* set side banner width to 24% */
+/* use pix to set a fixed width */
+
+* {
+	-webkit-boz-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+@media only screen and (max-width: 500px) {
+	h1 {
+		background-color: 
+	}
+}
+
+.row {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-1 {
+	width: 8.33%; 
+}
+
+.col-2 {
+	width: 
+}
+
+.col-3 {
+	width: 25%;
+	padding: 10px;
+}
+
+.col-4 {
+	width: 
+}
+
+.col-5 {
+	width: 
+}
+
+.col-6 {
+	width: 50%;
+}
+
+.col-7 {
+	width: 
+}
+
+.col-8 {
+	width: 
+}
+
+.col-9 {
+	width: 75%;
+}
+
+.col-10 {
+	width: 
+}
+
+.col-11 {
+	width: 
+}
+
+.col-12 {
+	width: 99.9%;
+}
+
+h1 {
+	text-align: center;
+}
+
